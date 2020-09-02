@@ -1,6 +1,6 @@
 {
   "name": "mongo-q-tail",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "lib/mongo-q-tail.js",
   "scripts": {
